@@ -1,4 +1,4 @@
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.PNG)
 # Keeper-App
 A ReactJS application to create notes and reminders.
 
